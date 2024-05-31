@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-2.xhtml">
+		<ignore>
+			<code>y-031</code>
+			<reason>No tag needed for dialogue. Other use of quotation marks are not for dialogue.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
