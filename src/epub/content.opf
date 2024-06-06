@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/felix-salten/bambi/whittaker-chambers</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-06-06T15:52:40Z</dc:date>
+		<meta property="dcterms:modified">2024-06-06T15:52:40Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,17 +43,17 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A tale following a roe deer from birth to maturity: from learning the rules of the forest to how to survive men.</dc:description>
+		<dc:description id="description">A roe deer learns the rules of the forest and how to survive in a world inhabited by men as he grows to maturity.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Bambi follows the life of a roe deer: from birth to maturity. Through the years, Bambi finds friends, learns how to survive in the forest, finds love, and learns have to survive “He”-the name given to men. The novel gives a glimpse into forest life: dangerous yet awe-inspiring, unforgiving yet beautiful.&lt;/p&gt;
-			&lt;p&gt;Originally written by &lt;a href="https://standardebooks.org/ebooks/felix-salten"&gt;Felix Salten&lt;/a&gt; and published in 1923 in German, it was released in English in 1928 after being translated by Whittaker Chambers. It is considered one of the first environmental novels, and, if one reads closely, a parable of the dangers and persecution of the Jews in Europe.&lt;/p&gt;
-			&lt;p&gt;Although adapted into multiple movie genres, ballet, and theater, &lt;i&gt;Bambi&lt;/i&gt; was made most popular under Walt Disney’s animated feature.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Bambi&lt;/i&gt; follows the life of the eponymous roe deer, from birth to maturity. Through the years Bambi meets friends, learns how to survive in the forest, finds love, and learns how to survive “He”-the name animals give to man. The novel gives a glimpse into forest life: dangerous, yet awe-inspiring; unforgiving, yet beautiful.&lt;/p&gt;
+			&lt;p&gt;Written by &lt;a href="https://standardebooks.org/ebooks/felix-salten"&gt;Felix Salten&lt;/a&gt; and published in 1923 in German, it was translated to English in 1928 by Whittaker Chambers. It is considered one of the first environmental novels, and in 1936 was banned by Nazi Germany for being a parable of the persecution of the Jews in Europe.&lt;/p&gt;
+			&lt;p&gt;Although adapted into multiple movies, ballets, and plays, &lt;i&gt;Bambi&lt;/i&gt; is perhaps most popularly remembered as the subject of Walt Disney’s famous animated feature of the same name.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72577</dc:source>
 		<dc:source>https://archive.org/details/bambi_202401/</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">41553</meta>
+		<meta property="se:reading-ease.flesch">86.1</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Bambi,_a_Life_in_the_Woods</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/felix-salten_bambi_whittaker-chambers</meta>
 		<dc:creator id="author">Felix Salten</dc:creator>
@@ -95,6 +95,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
