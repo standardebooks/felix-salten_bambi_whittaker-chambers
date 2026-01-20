@@ -53,7 +53,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72577</dc:source>
 		<dc:source>https://archive.org/details/bambi_202401</dc:source>
-		<meta property="se:word-count">41553</meta>
+		<meta property="se:word-count">40688</meta>
 		<meta property="se:reading-ease.flesch">86.1</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Bambi,_a_Life_in_the_Woods</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/felix-salten_bambi_whittaker-chambers</meta>
