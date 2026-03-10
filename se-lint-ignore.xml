@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-2.xhtml">
 		<ignore code="y-031">
+			<line>33</line>
 			<reason>No tag needed for dialogue. Other use of quotation marks are not for dialogue.</reason>
 		</ignore>
 	</file>
